@@ -1,0 +1,252 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #FFFFFF;
+}
+
+
+/* nav */
+nav {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1440px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    border: 3px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+
+/* buttonJeanne */
+#buttonJeanne {
+    position: absolute;
+    width: 174px;
+    height: 52px;
+    left: 748px;
+    top: 99px;
+}
+
+
+
+/* button */
+.button {
+    box-sizing: border-box;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border: 3px solid #000000;
+}
+
+
+/* Jeanne */
+#buttonNoms {
+    position: absolute;
+    left: 24.32%;
+    right: 24.86%;
+    top: 25.42%;
+    bottom: 0%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+
+
+
+/* buttonClaude */
+#buttonClaude {
+    position: absolute;
+    width: 174px;
+    height: 52px;
+    left: 1198px;
+    top: 99px;
+}
+
+
+/* main */
+main {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1440px;
+    height: 950px;
+    left: 0px;
+    top: 74px;
+    border: 3px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+
+/* buttonMartine */
+#buttonMartine {
+    position: absolute;
+    width: 174px;
+    height: 52px;
+    left: 973px;
+    top: 99px;
+}
+
+
+/* boxPersonne */
+#boxPersonne {
+    box-sizing: border-box;
+    position: absolute;
+    width: 650px;
+    height: 512px;
+    left: 395px;
+    top: 206px;
+    border: 3px solid #000000;
+}
+
+/* boxSuper */
+#boxSuper {
+    box-sizing: border-box;
+    position: absolute;
+    width: 650px;
+    height: 131px;
+    left: 395px;
+    top: 785px;
+    border: 3px solid #000000;
+}
+
+/* buttonChangeStyle */
+#boxChangerStyle {
+    position: absolute;
+    width: 154px;
+    height: 47px;
+    left: 855px;
+    top: 654px;
+}
+
+
+
+/* Rectangle 3 */
+#rectChangerStyle {
+    box-sizing: border-box;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border: 3px solid #000000;
+}
+
+
+/* Change style */
+#changeStyle {
+    position: absolute;
+    left: 9.09%;
+    right: 9.74%;
+    top: 25.53%;
+    bottom: 23.4%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+
+}
+
+
+/* Ellipse 1 */
+#photoNoms {
+    box-sizing: border-box;
+    position: absolute;
+    width: 142px;
+    height: 141px;
+    left: 649px;
+    top: 270px;
+    border: 3px solid #000000;
+}
+
+
+/* Prénom */
+#prenom {
+    position: absolute;
+    width: 73px;
+    height: 24px;
+    left: 457px;
+    top: 462px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* Nom */
+#nom {
+    position: absolute;
+    width: 45px;
+    height: 24px;
+    left: 869px;
+    top: 457px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+/* Date de naissance */
+#born {
+    position: absolute;
+    width: 175px;
+    height: 24px;
+    left: 457px;
+    top: 555px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+/* buttonSuper */
+#buttonSuper {
+    position: absolute;
+    width: 144px;
+    height: 38px;
+    left: 429px;
+    top: 856px;
+}
+
+
+/* Rectangle 4 */
+#rectSuper {
+    box-sizing: border-box;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border: 3px solid #000000;
+}
+
+
+
+/* C’est super ! */
+#textSuper {
+    position: absolute;
+    left: 13.19%;
+    right: 5.56%;
+    top: 18.42%;
+    bottom: 18.42%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
